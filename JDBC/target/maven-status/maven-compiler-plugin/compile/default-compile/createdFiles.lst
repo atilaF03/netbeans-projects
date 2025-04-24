@@ -1,0 +1,7 @@
+controle\PessoaControle.class
+modelo\Pessoa.class
+conexao\conexaoMySQL.class
+folder\ConexaoMySQL.class
+DAO\PessoaDAO.class
+View\TelaCadastro.class
+View\TelaCadastro$1.class
